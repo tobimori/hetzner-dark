@@ -4,7 +4,7 @@
 // @description	  Copies the dark mode from Hetzner Cloud and applies it to Hetzner Accounts.
 // @author        tobimori
 // @homepage      https://github.com/tobimori/hetzner-dark/
-// @update-url    https://github.com/tobimori/hetzner-dark/raw/master/hetzner-dark.user.js
+// @updateURL     https://github.com/tobimori/hetzner-dark/raw/master/hetzner-dark.user.js
 // @include       http://accounts.hetzner.com/*
 // @include       https://accounts.hetzner.com/*
 // @include       http://*.accounts.hetzner.com/*
